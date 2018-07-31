@@ -1,3 +1,4 @@
+
     __  _____________   ____  ____  ___       __          __       ____                  __  _         
    /  |/  /  _/_  __/  / __ )/ __ \/   |     / /   ____ _/ /_     / __ \_________ ______/ /_(_)_______ 
   / /|_/ // /  / /    / __  / / / / /| |    / /   / __ `/ __ \   / /_/ / ___/ __ `/ ___/ __/ / ___/ _ \
@@ -6,4 +7,4 @@
                                                                                                        
 
 # Description
-MIT BDA Lab Practice Code repository - Used to check-in code developed and tested by MIT students.
+MIT BDA Lab Practice Code repository - This repository is used to check-in code developed and tested by MIT students.
